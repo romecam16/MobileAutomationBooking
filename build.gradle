@@ -1,5 +1,3 @@
-import com.google.common.base.Utf8
-
 buildscript {
     repositories {
         mavenCentral()
